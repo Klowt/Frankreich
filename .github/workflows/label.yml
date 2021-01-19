@@ -22,6 +22,7 @@ jobs:
 
 documental:
   - localization/**/*
+<<<<<<< refs/remotes/Upstream/main
 =======
 >>>>>>> Github Integrations
 =======
@@ -37,3 +38,5 @@ Documental:
 >>>>>>> Commit Documental
   - localization/*
 >>>>>>> Update label.yml
+=======
+>>>>>>> AGh
