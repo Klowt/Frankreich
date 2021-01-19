@@ -21,10 +21,14 @@ focus_tree = {
 	
 	##########################################
 <<<<<<< refs/remotes/Upstream/main
+<<<<<<< refs/remotes/Upstream/main
 	######## |     MAIN FOCUS      |  ########
 =======
 	######## |     MAIN FOCUS     | ########
 >>>>>>> France Syntax Edit
+=======
+	######## |     MAIN FOCUS      |  ########
+>>>>>>> Example for a Gyazo ill make, but USA Refractor
 	##########################################
 
 	#Assessing the Situation
