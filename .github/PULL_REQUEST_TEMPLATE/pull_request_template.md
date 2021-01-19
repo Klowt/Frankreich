@@ -20,9 +20,12 @@ Write a brief summary here.
 - bug:
 - refractor:
 <<<<<<< refs/remotes/Upstream/main
+<<<<<<< refs/remotes/Upstream/main
 =======
 - gfx:
 >>>>>>> WIP // Github Labeler
+=======
+>>>>>>> Sorry, last one!
 - model:
 - tech:
 - focus:
