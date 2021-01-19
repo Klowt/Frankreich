@@ -1,6 +1,9 @@
 ### [Name of Pull Request] - {:cl:}
 
 <<<<<<< refs/remotes/Upstream/main
+<<<<<<< refs/remotes/Upstream/main
+=======
+>>>>>>> Summary Update
 #### Summary
 
 Write a brief summary here.
