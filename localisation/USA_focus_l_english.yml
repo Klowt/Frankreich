@@ -3,6 +3,7 @@
   assessing_the_situation_desc:0 "It's about time we assess what has been going on in the world in the past few decades and our place in the world. With the Germans winning the first world war, the French conquering all of Europe, and with almost all democratic nations falling to fascism, we should get a report to the President and Vice President about where we stand at the current moment..." 
 
  make_bonding_time_for_our_allies:0 "Make Bonding Time for our Allies"
+<<<<<<< refs/remotes/Upstream/main
    make_bonding_time_for_our_allies_desc:0 "Our allies are far and few between, we need to keep them on good terms or we have no chance of defeating France. We need to pursue closer ties with them to make sure none of them fall to the Frankish Regime."
 
   talk_with_the_french_paliamentarians:0 "Talk With the French Paliamentarians"
@@ -32,3 +33,9 @@
  prepare_for_the_next_election:0 "Prepare for the Next Election" 
 
   ask_the_democrats_for_a_grand_coalition:0 "Ask the Democrats for a Grand Coalition"
+=======
+ help_out_mcarthur:0 "Help Out McArthur"
+ talk_with_the_french_paliamentarians:0 "Talk With the French Paliamentarians"
+ call_up_ottawa:0 "Call Up Ottawa"
+ look_for_more_allies:0 "Look for More Allies"
+>>>>>>> Focus Change for USA/France

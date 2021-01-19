@@ -1,5 +1,6 @@
 <<<<<<< refs/remotes/Upstream/main
 <<<<<<< refs/remotes/Upstream/main
+<<<<<<< refs/remotes/Upstream/main
 ﻿#FRENCH FOCUS TREE - ASSIGNEE: NIERLYDYING
 =======
 ﻿#       SYNTAX DESIGN BY:  MERRYWEATHER     #
@@ -10,6 +11,9 @@
     #     SYNTAX DESIGN BY: MERRYWEATHER     #
     #----------------------------------------#
 >>>>>>> Some cleanup
+=======
+﻿#FRENCH FOCUS TREE - ASSIGNEE: NIERLYDYING
+>>>>>>> Focus Change for USA/France
 
 focus_tree = {
 	id = gfe_focus
