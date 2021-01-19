@@ -28,7 +28,12 @@ Write a brief summary here.
 - focus:
 - mapping:
 <<<<<<< refs/remotes/Upstream/main
+<<<<<<< refs/remotes/Upstream/main
 - project/wip:
 - enhancement:
 =======
 >>>>>>> WIP // Github Labeler
+=======
+- project/wip:
+- enhancement:
+>>>>>>> Update pull_request_template.md
