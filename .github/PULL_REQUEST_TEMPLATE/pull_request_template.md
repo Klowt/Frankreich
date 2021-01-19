@@ -11,8 +11,12 @@ Write a brief summary here.
 =======
 #### List of Changes
 
+<<<<<<< refs/remotes/Upstream/main
 #MAKE SURE TO DELETE THIS LINE! ADD WHAT LABELS APPLY TO YOUR PULL REQUEST!
 >>>>>>> WIP // Github Labeler
+=======
+#MAKE SURE TO DELETE THIS LINE! ADD WHAT LABELS APPLY TO YOUR PULL REQUEST and a SHORT DOCUMENTATION OF EACH ONE THAT YOU CHANGE.
+>>>>>>> my god
 
 - graphical:
 - documental:
