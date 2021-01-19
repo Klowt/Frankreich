@@ -18,8 +18,14 @@ jobs:
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
 <<<<<<< refs/remotes/Upstream/main
+<<<<<<< refs/remotes/Upstream/main
 
 documental:
   - localization/**/*
 =======
 >>>>>>> Github Integrations
+=======
+
+Mapping:
+  - localization/**/*
+>>>>>>> localization test
