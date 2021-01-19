@@ -17,6 +17,9 @@ jobs:
     - uses: actions/labeler@v2
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
+<<<<<<< refs/remotes/Upstream/main
 
 documental:
   - localization/**/*
+=======
+>>>>>>> Github Integrations
