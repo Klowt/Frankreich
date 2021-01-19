@@ -27,5 +27,9 @@ documental:
 =======
 
 Mapping:
+<<<<<<< refs/remotes/Upstream/main
   - localization/**/*
 >>>>>>> localization test
+=======
+  - localization/*
+>>>>>>> Update label.yml
