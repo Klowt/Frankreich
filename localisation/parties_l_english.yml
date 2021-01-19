@@ -73,7 +73,11 @@
  ITA_fascism_party:0 "Partito Nazionale Fascista (FR)"
  ITA_neutrality_party:0 "Partito Nazionale Monarchico"
  JAP_communism_party:0 "Nihon Kyosan-to"
+<<<<<<< refs/remotes/Upstream/main
  JAP_democratic_party:0 "Liberal Democratic Party (LD-P)"
+=======
+ JAP_democratic_party:0 "Rikken Minseito (CDP)"
+>>>>>>> Rikken Misento CDP
  JAP_fascism_party:0 "Taisei Yokusankai"
  JAP_neutrality_party_kodoha_long:0 "Kodoha Faction"
  JAP_neutrality_party_kodoha:0 "Kodoha Faction"
