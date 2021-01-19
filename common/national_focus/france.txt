@@ -1,9 +1,15 @@
 <<<<<<< refs/remotes/Upstream/main
+<<<<<<< refs/remotes/Upstream/main
 ﻿#FRENCH FOCUS TREE - ASSIGNEE: NIERLYDYING
 =======
 ﻿#       SYNTAX DESIGN BY:  MERRYWEATHER     #
 #-------------------------------------------#
 >>>>>>> France Syntax Edit
+=======
+﻿	#----------------------------------------#
+    #     SYNTAX DESIGN BY: MERRYWEATHER     #
+    #----------------------------------------#
+>>>>>>> Some cleanup
 
 focus_tree = {
 	id = gfe_focus
