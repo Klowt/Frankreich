@@ -20,10 +20,14 @@ focus_tree = {
 	default = no
 	
 <<<<<<< refs/remotes/Upstream/main
+<<<<<<< refs/remotes/Upstream/main
 	continuous_focus_position = { x = 50 y = 2000 }
 =======
 	continuous_focus_position = { x = 50 y = 1000 }
 >>>>>>> France Syntax Edit
+=======
+	continuous_focus_position = { x = 50 y = 2000 }
+>>>>>>> Minor Change
 
 	#----------------------------------------#
 	
