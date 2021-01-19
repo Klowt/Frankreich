@@ -1,4 +1,9 @@
+<<<<<<< refs/remotes/Upstream/main
 ﻿#FRENCH FOCUS TREE - ASSIGNEE: NIERLYDYING
+=======
+﻿#       SYNTAX DESIGN BY:  MERRYWEATHER     #
+#-------------------------------------------#
+>>>>>>> France Syntax Edit
 
 focus_tree = {
 	id = gfe_focus
@@ -14,7 +19,11 @@ focus_tree = {
 	
 	default = no
 	
+<<<<<<< refs/remotes/Upstream/main
 	continuous_focus_position = { x = 50 y = 2000 }
+=======
+	continuous_focus_position = { x = 50 y = 1000 }
+>>>>>>> France Syntax Edit
 
 	#----------------------------------------#
 	
@@ -100,7 +109,11 @@ focus_tree = {
 	#Marcel Deat
 	#Pierre Sidos
 
+<<<<<<< refs/remotes/Upstream/main
 	##Philippe Petain
+=======
+	#Philippe Petain
+>>>>>>> France Syntax Edit
 	focus = {
 		id = philippe_petain
 		icon = GFX_goal_generic_military_deal
@@ -130,6 +143,7 @@ focus_tree = {
 		}
 	}
 
+<<<<<<< refs/remotes/Upstream/main
 	#----------------------------------------#
 		
 	##########################################
@@ -147,6 +161,15 @@ focus_tree = {
 		y = 5
 
 		#relative_position_id 
+=======
+	#Marcel Bucard 
+	focus = {
+		id = marcel_bucard
+		icon = GFX_goal_generic_forceful_treaty
+	    x = 10
+		y = 4
+		#relative_position_id = the_future_successors
+>>>>>>> France Syntax Edit
 
 		available = {
 
@@ -156,7 +179,11 @@ focus_tree = {
 		}
 
 		cost = 10
+<<<<<<< refs/remotes/Upstream/main
 		prerequisite = { focus = philippe_petain }
+=======
+		prerequisite = { focus = the_future_successors}
+>>>>>>> France Syntax Edit
 
 		cancel_if_invalid = yes
 		continue_if_invalid = no
@@ -170,11 +197,19 @@ focus_tree = {
 		}
 	}
 
+<<<<<<< refs/remotes/Upstream/main
 	#Marcel Bucard 
 	focus = {
 		id = marcel_bucard
 		icon = GFX_goal_generic_forceful_treaty
 	    x = 10
+=======
+	#Victor Borthelemy
+	focus = {
+		id = victor_borthelemy
+		icon = GFX_goal_generic_position_armies
+		x = 15
+>>>>>>> France Syntax Edit
 		y = 4
 		#relative_position_id = the_future_successors
 
@@ -199,13 +234,21 @@ focus_tree = {
 
 		ai_will_do = {
 		}
-	}
+}
 
+<<<<<<< refs/remotes/Upstream/main
 	#Victor Borthelemy
 	focus = {
 		id = victor_borthelemy
 		icon = GFX_goal_generic_position_armies
 		x = 15
+=======
+	#Marcel Deat
+	focus = {
+		id = marcel_deat
+		icon = GFX_goal_generic_army_artillery
+	    x = 20
+>>>>>>> France Syntax Edit
 		y = 4
 		#relative_position_id = the_future_successors
 
@@ -231,11 +274,19 @@ focus_tree = {
 		}
 	}
 
+<<<<<<< refs/remotes/Upstream/main
 	#Marcel Deat
 	focus = {
 		id = marcel_deat
 		icon = GFX_goal_generic_army_artillery
 	    x = 20
+=======
+	#Pierre Sidos
+	focus = {
+		id = pierre_sidos
+		icon = GFX_goal_generic_air_doctrine
+	    x = 25
+>>>>>>> France Syntax Edit
 		y = 4
 		#relative_position_id = the_future_successors
 
@@ -262,6 +313,7 @@ focus_tree = {
 		}
 	}	
 
+<<<<<<< refs/remotes/Upstream/main
 	#Pierre Sidos
 	focus = {
 		id = pierre_sidos
@@ -296,6 +348,12 @@ focus_tree = {
 	######## |  MILITARY SUBSECTION | ########
 	##########################################
 
+=======
+	##########################################
+	######## |  MILITARY SUBSECTION | ########
+	##########################################
+
+>>>>>>> France Syntax Edit
 }
 
 # Attention! This is a Template Reference #

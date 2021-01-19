@@ -1,5 +1,8 @@
+<<<<<<< refs/remotes/Upstream/main
 #UNITED STATES FOCUS TREE - ASSIGNEE: MILITARYMODIFIER
 
+=======
+>>>>>>> France Syntax Edit
 focus_tree = {
 	id = usa_focus
 	
@@ -17,7 +20,11 @@ focus_tree = {
 	continuous_focus_position = { x = 50 y = 1000 }
 	
 	##########################################
+<<<<<<< refs/remotes/Upstream/main
 	######## |     MAIN FOCUS      |  ########
+=======
+	######## |     MAIN FOCUS     | ########
+>>>>>>> France Syntax Edit
 	##########################################
 
 	#Assessing the Situation
@@ -36,6 +43,7 @@ focus_tree = {
 
 		cost = 5
 
+<<<<<<< refs/remotes/Upstream/main
 		completion_reward = {
 			add_political_power = 75
 			country_event = usa.31
@@ -77,6 +85,15 @@ focus_tree = {
 				}	  
 				
 			}
+=======
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_political_power = 75
+			country_event = usa.31
+>>>>>>> France Syntax Edit
 		}
 
 		ai_will_do = {
@@ -90,6 +107,7 @@ focus_tree = {
 	#Help Out McArthur
 	#Deal with the Radicals Within Our Border
 
+<<<<<<< refs/remotes/Upstream/main
 	##########################################
 	###### |  BONDING TIME FOCUSES   | #######
 	##########################################
@@ -100,6 +118,14 @@ focus_tree = {
 		icon = GFX_focus_chi_mission_to_the_us
 	    x = 15
 		y = 2
+=======
+	#Make Bonding Time for our Allies
+	focus = {
+		id = make_bonding_time_for_our_allies
+		icon = GFX_focus_chi_mission_to_the_us
+	    x = 20
+		y = 3
+>>>>>>> France Syntax Edit
 		
 		#relative_position_id = assessing_the_situation
 
@@ -125,6 +151,7 @@ focus_tree = {
 		}
 	}
 
+<<<<<<< refs/remotes/Upstream/main
 	# TRIBUTARY - Talk With the French Paliamentarians
 	focus = {
 		id = talk_with_the_french_paliamentarians
@@ -229,6 +256,14 @@ focus_tree = {
 		icon = GFX_focus_generic_military_academy
 	    x = 20
 		y = 2
+=======
+	#Help Out McArthur
+	focus = {
+		id = help_out_mcarthur
+		icon = GFX_focus_generic_military_academy
+	    x = 25
+		y = 3
+>>>>>>> France Syntax Edit
 		
 		#relative_position_id = assessing_the_situation
 
@@ -254,6 +289,7 @@ focus_tree = {
 		}
 	}
 
+<<<<<<< refs/remotes/Upstream/main
 	# TRIBUTARY - Send Military Equipment to Japan
 	focus = {
 		id = send_military_equipment_to_japan
@@ -354,6 +390,14 @@ focus_tree = {
 		icon = GFX_focus_generic_strike_at_democracy1
 	    x = 25
 		y = 2
+=======
+	#Deal with the Radicals Within Our Border
+	focus = {
+		id = deal_with_the_radicals_within_our_border
+		icon = GFX_focus_generic_strike_at_democracy1
+	    x = 15
+		y = 3
+>>>>>>> France Syntax Edit
 		
 		#relative_position_id = assessing_the_situation
 
@@ -379,6 +423,7 @@ focus_tree = {
 		}
 	}
 
+<<<<<<< refs/remotes/Upstream/main
 	# TRIBUTARY - Send Spies to AFP and DSP Meetings
 	focus = {
 		id = send_spies_to_afp_and_dsp_meetings
@@ -501,6 +546,10 @@ focus_tree = {
 
 	##########################################
 	######## | INDUSTRIALSUBSECTION | ########
+=======
+	##########################################
+	######## | POLITICAL SUBSECTION | ########
+>>>>>>> France Syntax Edit
 	##########################################
 
 
@@ -509,6 +558,7 @@ focus_tree = {
 	######## |  MILITARY SUBSECTION | ########
 	##########################################
 	
+<<<<<<< refs/remotes/Upstream/main
 }
 
 #focus = {
@@ -539,3 +589,6 @@ focus_tree = {
 #	ai_does_stuff_here
 #	}
 #}
+=======
+}
+>>>>>>> France Syntax Edit
