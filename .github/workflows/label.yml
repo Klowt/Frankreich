@@ -26,10 +26,14 @@ documental:
 >>>>>>> Github Integrations
 =======
 
+<<<<<<< refs/remotes/Upstream/main
 Mapping:
 <<<<<<< refs/remotes/Upstream/main
   - localization/**/*
 >>>>>>> localization test
 =======
+=======
+Documental:
+>>>>>>> Commit Documental
   - localization/*
 >>>>>>> Update label.yml
