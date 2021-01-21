@@ -16,7 +16,10 @@ state={
 			413 5
 		}
 		add_core_of = SOV
+<<<<<<< CountryUkraineandbelarus
 		add_core_of = UKR
+=======
+>>>>>>> Ukraine and Belarus (#13)
 	}
 
 	provinces={
