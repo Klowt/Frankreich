@@ -707,3 +707,19 @@ SHL = {
 	color = rgb { 51 51 255 }
 	color_ui = rgb { 51 51 255 }
 }
+KRR = {
+	color = rgb { 255 101 0 }
+	color_ui = rgb { 255 101 0 } 
+}
+GZY = {
+	color = rgb { 113 140 51 }
+	color_ui = rgb { 113 140 51 } 
+}
+ROS = {
+	color = rgb { 255 128 117 }
+	color_ui = rgb { 255 128 117 } 
+}
+STL = {
+	color = rgb { 140 12 0 }
+	color_ui = rgb { 140 12 0 } 
+}
