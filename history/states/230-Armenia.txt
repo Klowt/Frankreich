@@ -3,7 +3,11 @@ state={
 	name="STATE_230"
 
 	history={
+<<<<<<< CountryUkraineandbelarus
 		owner = ARM
+=======
+		owner = SOV
+>>>>>>> Overridden Conflicts
 		victory_points = {
 			12320 3
 		}
@@ -29,7 +33,11 @@ state={
 	}
 
 	provinces={
+<<<<<<< CountryUkraineandbelarus
 		1467 3564 4660 6642 9715 11708 12320 12380 12441 12450 13123 
+=======
+		3564 4660 6642 6997 11708 12320 12380 12441 12450 13123 
+>>>>>>> Overridden Conflicts
 	}
 	manpower=1250082
 	buildings_max_level_factor=1.000

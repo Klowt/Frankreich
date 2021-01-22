@@ -100,7 +100,7 @@ focus_tree = {
 	#Marcel Deat
 	#Pierre Sidos
 
-	#Philippe Petain
+	##Philippe Petain
 	focus = {
 		id = philippe_petain
 		icon = GFX_goal_generic_military_deal
@@ -117,6 +117,46 @@ focus_tree = {
 
 		cost = 10
 		prerequisite = { focus = the_future_successors}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+		completion_reward = {
+
+		}
+
+		ai_will_do = {
+		}
+	}
+
+	#----------------------------------------#
+		
+	##########################################
+	######## | Philippe Petain | ########
+	##########################################
+
+	#----------------------------------------#	
+
+	#Britain Is the Real Enemy
+
+	focus = { 
+		id = britain_is_the_real_enemy
+		icon = GFX_focus_eng_bring_the_dominions_back_into_the_fold
+	    x = 6
+		y = 5
+
+		#relative_position_id 
+
+		available = {
+
+		}
+		bypass = {
+
+		}
+
+		cost = 10
+		prerequisite = { focus = philippe_petain }
 
 		cancel_if_invalid = yes
 		continue_if_invalid = no
