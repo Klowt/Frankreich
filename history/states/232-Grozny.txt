@@ -11,11 +11,7 @@ state={
 	}
 
 	history={
-<<<<<<< CountryUkraineandbelarus
 		owner = GZY
-=======
-		owner = SOV
->>>>>>> Overridden Conflicts
 		buildings = {
 			infrastructure = 4
 		}
@@ -29,10 +25,6 @@ state={
 	}
 
 	provinces={
-<<<<<<< CountryUkraineandbelarus
 		666 670 683 685 700 712 714 728 731 1450 1455 3668 3672 3682 3711 4463 6689 6701 6718 6730 6733 6748 7554 7624 9628 9645 9647 11632 11633 11614 11678
-=======
-		683 700 712 728 1450 3668 3672 3682 3711 4463 6689 6701 6730 6748 7554 7624 9645 11632 
->>>>>>> Overridden Conflicts
 	}
 }

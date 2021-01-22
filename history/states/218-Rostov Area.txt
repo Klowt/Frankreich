@@ -7,15 +7,7 @@ state={
 	state_category = city
 
 	history={
-<<<<<<< CountryUkraineandbelarus
-<<<<<<< CountryUkraineandbelarus
 		owner = ROS
-=======
-		owner = SOV
->>>>>>> Ukraine and Belarus (#13)
-=======
-		owner = SOV
->>>>>>> Changes to Ukraine fixed (#15)
 		victory_points = {
 			9417 15 
 		}
