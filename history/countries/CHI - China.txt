@@ -62,12 +62,10 @@ if = {
 		has_dlc = "Waking the Tiger"
 	}		
 	add_ideas = {
-		CHI_nine_power_treaty
 		CHI_army_corruption_1
 		CHI_ineffective_bureaucracy
 		CHI_incompetent_officers
-		free_trade
-		CHI_hyper_inflation_1
+		CHI_hyper_inflation_2
 	}
 }
 save_global_event_target_as = WTT_current_china_leader
@@ -249,11 +247,11 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Weng Wenhao" 
-	desc = "POLITICS_ZHANG_LAN_DESC"
-	picture = "GFX_portrait_chi_weng_wenhao"
+	name = "Li Zongren" 
+	desc = ""
+	picture = "CHI_LEAD_Li_Zongren.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = conservatism
 	traits = {
 		#
 	}

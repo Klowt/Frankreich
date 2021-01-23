@@ -1,0 +1,40 @@
+﻿l_english:
+ CHI_the_republic_triumphant:0 "The Republic Triumphant"
+  CHI_the_republic_triumphant_desc:0 "The Republic of China, pioneered by Li Zongren and Chiang Kai Shek, has been successful in driving the communist peasants out. Mao Zedong is in custody of our army and is awaiting trial."
+
+ ## Mao Zedong Question
+
+ CHI_mao_zedong_question:0 "The Mao Zedong Question"
+  CHI_mao_zedong_question_desc:0 ""
+    CHI_executed:0 "Executed"
+      CHI_executed_desc:0 ""
+     CHI_imprisoned:0 "Imprisoned"
+      CHI_imprisoned_desc:0 ""
+
+ # The Status Quo Focuses
+ CHI_status_quo:0 "The Status Quo"
+  CHI_status_quo_desc:0 ""
+
+ ## Restore the Empire Focuses
+ CHI_restore_the_empire:0 "Restore the Empire"
+  CHI_restore_the_empire_desc:0 ""
+
+   # Puyi
+     CHI_crown_puyi:0 "Crown Puyi"
+      CHI_crown_puyi_desc:0 ""
+
+   # Corrupt Monarchy
+     CHI_corrupt_the_monarchy:0 "Corrupt the Monarchy"
+      CHI_corrupt_the_monarchy_desc:0 ""
+
+ ## A New Republic Focuses
+ CHI_a_new_republic:0 "A New Republic"
+  CHI_a_new_republic_desc:0 ""
+
+   # Social Democracy
+     CHI_social_democracy:0 "Social Democracy"
+      CHI_social_democracy_desc:0 ""
+
+   # Spark the Third Revolution
+     CHI_spark_the_third_revolution:0 "Spark the Third Revolution"
+      CHI_spark_the_third_revolution_desc:0 ""
