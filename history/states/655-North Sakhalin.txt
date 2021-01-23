@@ -8,6 +8,7 @@ state={
 	history={
 		owner = TRA
 		add_core_of = SOV
+		add_core_of = TRA
 		add_claim_by = JAP
 		buildings = {
 			infrastructure = 3
