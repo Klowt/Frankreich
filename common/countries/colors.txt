@@ -373,8 +373,8 @@ ICE = {
 }
 
 UKR = { 
-	color = rgb { 55  0  255 }
-	color_ui = rgb { 55  0  255 }	
+	color = rgb { 129 171 204 }
+	color_ui = rgb { 129 171 204 }	
 }
 
 AZR = {
@@ -423,8 +423,8 @@ MNT = {
 }
 
 BLR = {
-    color = RGB { 70 35 170 }
-    color_ui = RGB { 70 35 170 }
+    color = RGB { 179 201 193 }
+    color_ui = RGB { 179 201 193 }
 }
 MAN = {
 	color = rgb { 255 120 71 }
@@ -716,8 +716,8 @@ GZY = {
 	color_ui = rgb { 113 140 51 } 
 }
 ROS = {
-	color = rgb { 255 128 117 }
-	color_ui = rgb { 255 128 117 } 
+	color = rgb { 168 144 103 }
+	color_ui = rgb { 168 144 103 } 
 }
 STL = {
 	color = rgb { 140 12 0 }
