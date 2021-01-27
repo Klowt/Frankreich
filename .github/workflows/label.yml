@@ -17,6 +17,7 @@ jobs:
     - uses: actions/labeler@v2
       with:
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 <<<<<<< refs/remotes/Upstream/main
 
@@ -40,3 +41,8 @@ Documental:
 >>>>>>> Update label.yml
 =======
 >>>>>>> AGh
+=======
+
+documental:
+  - localization/**/*
+>>>>>>> main

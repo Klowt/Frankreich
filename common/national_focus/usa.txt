@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 <<<<<<< refs/remotes/Upstream/main
 #UNITED STATES FOCUS TREE - ASSIGNEE: MILITARYMODIFIER
@@ -8,6 +9,10 @@
 #UNITED STATES FOCUS TREE - ASSIGNEE: MILITARYMODIFIER
 
 >>>>>>> Focus Change for USA/France
+=======
+#UNITED STATES FOCUS TREE - ASSIGNEE: MILITARYMODIFIER
+
+>>>>>>> main
 focus_tree = {
 	id = usa_focus
 	
@@ -25,6 +30,7 @@ focus_tree = {
 	continuous_focus_position = { x = 50 y = 1000 }
 	
 	##########################################
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 <<<<<<< refs/remotes/Upstream/main
 	######## |     MAIN FOCUS      |  ########
@@ -34,6 +40,9 @@ focus_tree = {
 =======
 	######## |     MAIN FOCUS      |  ########
 >>>>>>> Example for a Gyazo ill make, but USA Refractor
+=======
+	######## |     MAIN FOCUS      |  ########
+>>>>>>> main
 	##########################################
 
 	#Assessing the Situation
@@ -52,6 +61,7 @@ focus_tree = {
 
 		cost = 5
 
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 		completion_reward = {
 			add_political_power = 75
@@ -95,6 +105,8 @@ focus_tree = {
 				
 			}
 =======
+=======
+>>>>>>> main
 		cancel_if_invalid = yes
 		continue_if_invalid = no
 		available_if_capitulated = no
@@ -102,7 +114,10 @@ focus_tree = {
 		completion_reward = {
 			add_political_power = 75
 			country_event = usa.31
+<<<<<<< HEAD
 >>>>>>> France Syntax Edit
+=======
+>>>>>>> main
 		}
 
 		ai_will_do = {
@@ -116,15 +131,19 @@ focus_tree = {
 	#Help Out McArthur
 	#Deal with the Radicals Within Our Border
 
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 <<<<<<< refs/remotes/Upstream/main
 =======
 >>>>>>> Focus Change for USA/France
+=======
+>>>>>>> main
 	##########################################
 	###### |  BONDING TIME FOCUSES   | #######
 	##########################################
 
 	# MASTER - Make Bonding Time for our Allies
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 	focus = {
 		id = make_bonding_time_for_our_allies
@@ -135,12 +154,17 @@ focus_tree = {
 	#Make Bonding Time for our Allies
 =======
 >>>>>>> Focus Change for USA/France
+=======
+>>>>>>> main
 	focus = {
 		id = make_bonding_time_for_our_allies
 		icon = GFX_focus_chi_mission_to_the_us
 	    x = 15
 		y = 3
+<<<<<<< HEAD
 >>>>>>> France Syntax Edit
+=======
+>>>>>>> main
 		
 		#relative_position_id = assessing_the_situation
 
@@ -166,20 +190,27 @@ focus_tree = {
 		}
 	}
 
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 <<<<<<< refs/remotes/Upstream/main
 =======
 >>>>>>> Focus Change for USA/France
+=======
+>>>>>>> main
 	# TRIBUTARY - Talk With the French Paliamentarians
 	focus = {
 		id = talk_with_the_french_paliamentarians
 		icon = GFX_focus_chi_reach_out_to_france
 	    x = 14
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 		y = 3
 =======
 		y = 4
 >>>>>>> Focus Change for USA/France
+=======
+		y = 4
+>>>>>>> main
 		
 		#relative_position_id = make_bonding_time_for_our_allies
 
@@ -210,11 +241,15 @@ focus_tree = {
 		id = call_up_ottawa
 		icon = GFX_focus_generic_monarchy_1
 	    x = 16
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 		y = 3
 =======
 		y = 4
 >>>>>>> Focus Change for USA/France
+=======
+		y = 4
+>>>>>>> main
 		
 		#relative_position_id = make_bonding_time_for_our_allies
 
@@ -245,11 +280,15 @@ focus_tree = {
 		id = look_for_more_allies
 		icon = GFX_focus_usa_focus_on_europe
 	    x = 15
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 		y = 4
 =======
 		y = 5
 >>>>>>> Focus Change for USA/France
+=======
+		y = 5
+>>>>>>> main
 		
 		#relative_position_id = talk_with_the_french_paliamentarians
 		#relative_position_id = call_up_ottawa
@@ -281,6 +320,7 @@ focus_tree = {
 	##########################################
 
 	# MASTER - Help Out McArthur
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 	focus = {
 		id = help_out_mcarthur
@@ -291,12 +331,17 @@ focus_tree = {
 	#Help Out McArthur
 =======
 >>>>>>> Focus Change for USA/France
+=======
+>>>>>>> main
 	focus = {
 		id = help_out_mcarthur
 		icon = GFX_focus_generic_military_academy
 	    x = 20
 		y = 3
+<<<<<<< HEAD
 >>>>>>> France Syntax Edit
+=======
+>>>>>>> main
 		
 		#relative_position_id = assessing_the_situation
 
@@ -322,20 +367,27 @@ focus_tree = {
 		}
 	}
 
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 <<<<<<< refs/remotes/Upstream/main
 =======
 >>>>>>> Focus Change for USA/France
+=======
+>>>>>>> main
 	# TRIBUTARY - Send Military Equipment to Japan
 	focus = {
 		id = send_military_equipment_to_japan
 		icon = GFX_focus_focus_fra_maquis
 	    x = 19
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 		y = 3
 =======
 		y = 4
 >>>>>>> Focus Change for USA/France
+=======
+		y = 4
+>>>>>>> main
 		
 		#relative_position_id = help_out_mcarthur
 
@@ -366,11 +418,15 @@ focus_tree = {
 		id = fund_the_liberal_democratic_party
 		icon = GFX_focus_generic_monarchy_1
 	    x = 21
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 		y = 3
 =======
 		y = 4
 >>>>>>> Focus Change for USA/France
+=======
+		y = 4
+>>>>>>> main
 		
 		#relative_position_id = make_bonding_time_for_our_allies
 
@@ -398,17 +454,23 @@ focus_tree = {
 
 	# BREAKOFF - Put Down the Rebels
 	focus = {
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 		id = put_down_the_rebels
 		icon = GFX_focus_usa_recruit_the_free_corps
 	    x = 20
 		y = 4
 =======
+=======
+>>>>>>> main
 		id = look_for_more_allies
 		icon = GFX_focus_usa_focus_on_europe
 	    x = 15
 		y = 5
+<<<<<<< HEAD
 >>>>>>> Focus Change for USA/France
+=======
+>>>>>>> main
 		
 		#relative_position_id = talk_with_the_french_paliamentarians
 		#relative_position_id = call_up_ottawa
@@ -419,12 +481,15 @@ focus_tree = {
 		bypass = {
 
 		}
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 		prerequisite = { focus = send_military_equipment_to_japan}
 		prerequisite = { focus = fund_the_liberal_democratic_party}
 		cost = 10
 
 =======
+=======
+>>>>>>> main
 		prerequisite = { focus = talk_with_the_french_paliamentarians}
 		prerequisite = { focus = call_up_ottawa}
 		cost = 10
@@ -433,7 +498,10 @@ focus_tree = {
 		continue_if_invalid = no
 		available_if_capitulated = no
 
+<<<<<<< HEAD
 >>>>>>> Focus Change for USA/France
+=======
+>>>>>>> main
 		completion_reward = {
 
 		}
@@ -447,6 +515,7 @@ focus_tree = {
 	##########################################
 
 	# MASTER - Deal with the Radicals Within Our Border
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 	focus = {
 		id = deal_with_the_radicals_within_our_border
@@ -457,12 +526,17 @@ focus_tree = {
 	#Deal with the Radicals Within Our Border
 =======
 >>>>>>> Focus Change for USA/France
+=======
+>>>>>>> main
 	focus = {
 		id = deal_with_the_radicals_within_our_border
 		icon = GFX_focus_generic_strike_at_democracy1
 	    x = 25
 		y = 3
+<<<<<<< HEAD
 >>>>>>> France Syntax Edit
+=======
+>>>>>>> main
 		
 		#relative_position_id = assessing_the_situation
 
@@ -488,6 +562,7 @@ focus_tree = {
 		}
 	}
 
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 <<<<<<< refs/remotes/Upstream/main
 	# TRIBUTARY - Send Spies to AFP and DSP Meetings
@@ -621,6 +696,11 @@ focus_tree = {
 	##########################################
 	######## | INDUSTRIALSUBSECTION | ########
 >>>>>>> Focus Change for USA/France
+=======
+
+	##########################################
+	######## | INDUSTRIALSUBSECTION | ########
+>>>>>>> main
 	##########################################
 
 
@@ -629,10 +709,13 @@ focus_tree = {
 	######## |  MILITARY SUBSECTION | ########
 	##########################################
 	
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 <<<<<<< refs/remotes/Upstream/main
 =======
 >>>>>>> Focus Change for USA/France
+=======
+>>>>>>> main
 }
 
 #focus = {
@@ -662,6 +745,7 @@ focus_tree = {
 #	ai_will_do = {
 #	ai_does_stuff_here
 #	}
+<<<<<<< HEAD
 <<<<<<< refs/remotes/Upstream/main
 #}
 =======
@@ -670,3 +754,6 @@ focus_tree = {
 =======
 #}
 >>>>>>> Focus Change for USA/France
+=======
+#}
+>>>>>>> main
