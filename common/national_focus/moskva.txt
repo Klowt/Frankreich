@@ -159,6 +159,23 @@ focus_tree = {
 			}
 		}
 	}
+
+	focus = {
+		id = SOV_start_a_new_five_year_plan
+		icon = GFX_idea_man_five_year_plan_industry
+
+		x = 5
+		y = 7
+
+		available = {
+		}
+		bypass = {
+		}
+
+		cost = 10
+		prerequisite = { focus = SOV_improve_the_railways }
+		prerequisite = { focus = SOV_construct_arms_factories }
+	}
 	
 	focus = {
 		id = SOV_modernize_the_army
